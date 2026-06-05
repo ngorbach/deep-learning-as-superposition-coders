@@ -1,0 +1,3 @@
+model,nonrefinable_data,full_test_loss,full_test_acc,full_base_coarse_acc,frozen_test_loss,frozen_test_acc,frozen_base_coarse_acc,extendibility_gap_loss,extendibility_gap_acc,aux_weight,width,depth,seed
+plain,1,0.4543833532333374,0.95625,0.96975,0.43742716217041017,0.963,0.9675,-0.01695619106292723,-0.006749999999999923,0.1,128,4,0
+skip,1,0.18439613771438598,0.9685,0.97,0.19815583157539368,0.96925,0.96925,0.013759693861007699,-0.0007499999999999174,0.1,128,4,0
